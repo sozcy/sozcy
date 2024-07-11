@@ -1,3 +1,8 @@
+# Hello！I am ZCY
+
+## About me
+
+<!--
 - 👋 Hi, I’m @sozcy
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -5,14 +10,11 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-# Hello！I am ZCY
-
-## About me
+-->
 
 从事 Java 大数据开发
 
-Focus on Java Bigdata Development
+Work on Java Bigdata Development
 
 联系我请直接在 Github 相应仓库创建 Issue 即可或者发送邮件至 github#sozcy.com(#替换成@)
 
