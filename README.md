@@ -16,9 +16,10 @@ Work on Java Bigdata Development
 
 To contact me, please create an Issue directly in the corresponding Github repository or send an email to github#sozcy.com (replace # with @)
 
-Please visit my website directly[https://sozcy.com](https://sozcy.com)
+Please visit my website directly
+[https://sozcy.com](https://sozcy.com)
 
-
+<!--
 ## Contents
 
 The following content includes an introduction to my open source projects,article groups and latest published articles
@@ -40,3 +41,4 @@ The following content includes an introduction to my open source projects,articl
 |Title|Time|Group|
 |:----|:----|:----|
 <!--|JAVA|2024-07-11|Java Study notes|-->
+-->
