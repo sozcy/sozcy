@@ -1,4 +1,4 @@
-# Hello！I am ZCY
+# Hello！I am sozcy
 
 ## About me
 
